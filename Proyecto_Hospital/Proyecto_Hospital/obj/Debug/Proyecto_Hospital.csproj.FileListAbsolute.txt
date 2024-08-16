@@ -1,0 +1,18 @@
+C:\Users\Hilda\Documents\SharpDevelop Projects\Proyecto_Hospital\Proyecto_Hospital\obj\Debug\Proyecto_Hospital.csprojResolveAssemblyReference.cache
+C:\Users\Hilda\Documents\SharpDevelop Projects\Proyecto_Hospital\Proyecto_Hospital\bin\Debug\Proyecto_Hospital.exe.config
+C:\Users\Hilda\Documents\SharpDevelop Projects\Proyecto_Hospital\Proyecto_Hospital\bin\Debug\Proyecto_Hospital.exe
+C:\Users\Hilda\Documents\SharpDevelop Projects\Proyecto_Hospital\Proyecto_Hospital\bin\Debug\Proyecto_Hospital.pdb
+C:\Users\Hilda\Documents\SharpDevelop Projects\Proyecto_Hospital\Proyecto_Hospital\obj\Debug\Proyecto_Hospital.exe
+C:\Users\Hilda\Documents\SharpDevelop Projects\Proyecto_Hospital\Proyecto_Hospital\obj\Debug\Proyecto_Hospital.pdb
+E:\Proyecto_Hospital\Proyecto_Hospital\obj\Debug\Proyecto_Hospital.csprojResolveAssemblyReference.cache
+E:\Proyecto_Hospital\Proyecto_Hospital\obj\Debug\Proyecto_Hospital.exe
+E:\Proyecto_Hospital\Proyecto_Hospital\bin\Debug\Proyecto_Hospital.exe.config
+E:\Proyecto_Hospital\Proyecto_Hospital\bin\Debug\Proyecto_Hospital.exe
+E:\Proyecto_Hospital\Proyecto_Hospital\bin\Debug\Proyecto_Hospital.pdb
+E:\Proyecto_Hospital\Proyecto_Hospital\obj\Debug\Proyecto_Hospital.pdb
+C:\Users\Hilda\Desktop\Proyecto_Hospital1\Proyecto_Hospital\obj\Debug\Proyecto_Hospital.csprojResolveAssemblyReference.cache
+C:\Users\Hilda\Desktop\Proyecto_Hospital1\Proyecto_Hospital\obj\Debug\Proyecto_Hospital.exe
+C:\Users\Hilda\Desktop\Proyecto_Hospital1\Proyecto_Hospital\bin\Debug\Proyecto_Hospital.exe.config
+C:\Users\Hilda\Desktop\Proyecto_Hospital1\Proyecto_Hospital\bin\Debug\Proyecto_Hospital.exe
+C:\Users\Hilda\Desktop\Proyecto_Hospital1\Proyecto_Hospital\bin\Debug\Proyecto_Hospital.pdb
+C:\Users\Hilda\Desktop\Proyecto_Hospital1\Proyecto_Hospital\obj\Debug\Proyecto_Hospital.pdb

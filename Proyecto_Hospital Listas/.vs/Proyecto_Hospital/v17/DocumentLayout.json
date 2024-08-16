@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programacion II\\3er bimestres\\Proyecto_Hospital Listas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51B68A78-9524-44E6-B289-A6154C206FC4}|Proyecto_Hospital\\Proyecto_Hospital.csproj|d:\\programacion ii\\3er bimestres\\proyecto_hospital listas\\proyecto_hospital\\hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51B68A78-9524-44E6-B289-A6154C206FC4}|Proyecto_Hospital\\Proyecto_Hospital.csproj|solutionrelative:proyecto_hospital\\hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Hospital.cs",
+              "DocumentMoniker": "D:\\Programacion II\\3er bimestres\\Proyecto_Hospital Listas\\Proyecto_Hospital\\Hospital.cs",
+              "RelativeDocumentMoniker": "Proyecto_Hospital\\Hospital.cs",
+              "ToolTip": "D:\\Programacion II\\3er bimestres\\Proyecto_Hospital Listas\\Proyecto_Hospital\\Hospital.cs",
+              "RelativeToolTip": "Proyecto_Hospital\\Hospital.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAmwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T23:30:05.958Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+﻿/*
+ * Creado por SharpDevelop.
+ * Usuario: Hilda
+ * Fecha: 27/6/2024
+ * Hora: 17:12
+ * 
+ * Para cambiar esta plantilla use Herramientas | Opciones | Codificación | Editar Encabezados Estándar
+ */
+using System;
+
+namespace Proyecto_Hospital
+{
+	/// <summary>
+	/// Description of Paciente.
+	/// </summary>
+	public class Paciente:Persona
+	{
+		private string fecha_internacion;
+		private Revision_Medica RM=new Revision_Medica();
+		public Paciente():base()
+		{
+			fecha_internacion="4/5/22";
+		}
+		public void mostrar(){
+			Console.WriteLine("\n--- Mostrando datos de Paciente ---");
+			base.mostrar();
+			Console.WriteLine("Fecha de internación= "+fecha_internacion);
+			RM.mostrar();
+		}
+		public string FechaInternacion{
+			get{return fecha_internacion;}
+			set{fecha_internacion = value;}
+		}
+		public Revision_Medica RV{
+			get{return RM;}
+			set{RM= value;}
+		}
+		//a)2da forma
+		public void BuscarPaciente5(int x, int y){
+			if(ci.Equals(x) & RM.BuscarPaciente4(y))
+				Console.Write("");
+			
+		}
+	}
+}

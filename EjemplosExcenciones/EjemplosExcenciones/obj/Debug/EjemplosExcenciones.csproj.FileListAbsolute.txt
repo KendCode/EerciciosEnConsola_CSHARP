@@ -1,0 +1,6 @@
+C:\Users\ASUS\Documents\SharpDevelop Projects\EjemplosExcenciones\EjemplosExcenciones\obj\Debug\EjemplosExcenciones.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\SharpDevelop Projects\EjemplosExcenciones\EjemplosExcenciones\bin\Debug\EjemplosExcenciones.exe.config
+C:\Users\ASUS\Documents\SharpDevelop Projects\EjemplosExcenciones\EjemplosExcenciones\bin\Debug\EjemplosExcenciones.exe
+C:\Users\ASUS\Documents\SharpDevelop Projects\EjemplosExcenciones\EjemplosExcenciones\bin\Debug\EjemplosExcenciones.pdb
+C:\Users\ASUS\Documents\SharpDevelop Projects\EjemplosExcenciones\EjemplosExcenciones\obj\Debug\EjemplosExcenciones.exe
+C:\Users\ASUS\Documents\SharpDevelop Projects\EjemplosExcenciones\EjemplosExcenciones\obj\Debug\EjemplosExcenciones.pdb
